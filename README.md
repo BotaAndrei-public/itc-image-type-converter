@@ -1,6 +1,7 @@
 # 🖼️ ITC - Image Type Converter
 
-[![Download Now](⬇️)]([https://github.com](https://github.com/BotaAndrei-public/itc-image-type-converter/releases/tag/v1.0.0))
+[![Download Now](https://shields.io)](https://github.com/BotaAndrei-public/itc-image-type-converter/releases/tag/v1.0.0)
+
 
 A lightweight, powerful, and portable image conversion tool built with **C#** and **.NET 8**. Optimized for Windows 10 and 11.
 
