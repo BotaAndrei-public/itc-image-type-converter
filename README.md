@@ -21,7 +21,7 @@ A lightweight, powerful, and portable image conversion tool built with **C#** an
 - **UI Stability**: Optimized layout to ensure consistent button alignment across different displays.
 
 ## 📦 How to Download
-You can find all versions in the [**Releases**]([https://github.com](https://github.com/BotaAndrei-public/itc-image-type-converter/releases/tag/v1.0.0)) section. 
+You can find all versions in the [**Releases**]([https://github.com](https://github.com/BotaAndrei-public/itc-image-type-converter/releases/tag/v1.0.0) section. 
 
 **Choose the file that matches your system:**
 - **Installer (`.msi`)**: Full setup with Desktop and Start Menu shortcuts.
@@ -48,4 +48,4 @@ You can find all versions in the [**Releases**]([https://github.com](https://git
 This is an open-source project. Feel free to fork, report issues, or submit pull requests!
 
 ---
-*Created by [BotaAndrei-public]([https://github.com](https://github.com/BotaAndrei-public))*
+*Created by [BotaAndrei-public]([https://github.com](https://github.com/BotaAndrei-public)*
